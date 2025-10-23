@@ -1,4 +1,4 @@
-Owner:	Zachary Melton	zmelton99@gmail.com
+Owner:	Zachary Melton	zachary.melton@my.utsa.edu
 Collaborators:
 1.Victor Alderete
 2.Joseph Alvarado
